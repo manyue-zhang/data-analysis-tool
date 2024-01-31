@@ -7,12 +7,12 @@
 
 > # data-analysis-tool
 
-### 🏠 [Homepage](Implementation of an automated data analysis tool with Streamlit and Scikit-Learn to analyse data according to user-defined criteria in Python. )
+### 🏠 Implementation of an automated data analysis tool with Streamlit and Scikit-Learn to analyse data according to user-defined criteria in Python. 
 
 ## Usage
 
 ```sh
-Manyuepip install -r requirements Zhang
+pip install -r requirements
 ```
 
 ## Run tests
@@ -32,4 +32,3 @@ streamlit run applicatation.pyion.
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
