@@ -18,7 +18,7 @@ pip install -r requirements
 ## Run tests
 
 ```sh
-streamlit run applicatation.pyion.
+streamlit run main.py
 ```
 
 ## Author
